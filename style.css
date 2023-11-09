@@ -49,3 +49,13 @@ div#b:hover{
     background: rgba(139, 0, 0, 0.781);
     color:white;
 }
+div#opt{
+    display: inline-block;
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+}
