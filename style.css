@@ -53,17 +53,15 @@ div#b:hover{
     color:white;
 }
 section#c{
-    width: 65vw;
+    width: 80VW;
+    
+    text-align: center;
     margin: auto;
 }
 div#opt{
     display: inline-block;
     border: 1px solid black;
-    width: 200px;
+    width: 150px;
     height: 100px;
-    border-radius: 5px;
-    
-}
-h3{
-    text-align: center;
+    margin: auto;
 }
